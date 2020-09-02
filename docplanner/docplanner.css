@@ -1,0 +1,219 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('health.jpg');
+    background-repeat: no-repeat;
+}    
+    
+.logo{
+    width: 268px;
+    height: 33px;
+    margin: 0.6em;
+    padding-left: 4.5cm;
+}
+.menu{
+    display: flex;
+    padding-right: 4.5cm;
+    text-align: center;
+    list-style: none;
+}
+.menu li a{
+    margin: 0.6em;
+    text-decoration: none;
+    color: #ababab;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu .color{
+    color: #00b39b;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.lead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 70px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #00b39b;
+}
+.para{
+    display: flex;
+}
+.para .para1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 20px;
+}
+.para .para2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    color: black;
+}
+.choice{
+    display: flex;
+    justify-content: space-between;
+}
+.choice .pat{
+    padding-left: 1cm;
+    text-align: center;
+}
+.choice .doc{
+    text-align: center;
+}
+.option{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background: transparent;
+    border: #ababab;
+    border-style: double;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.title h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00b39b;
+}
+.line1{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+.line2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.number2 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00b39b;
+    text-align: center;
+}
+.number2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+}
+.box11{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.box1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #00b39b;
+    border-radius: 10px;
+    padding: 10px;
+}
+.box2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #00b39b;
+    border-radius: 10px;
+    padding: 10px;
+}
+.box22{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.box3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #00b39b;
+    border-radius: 10px;
+    padding: 10px;
+}
+.box4{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #00b39b;
+    border-radius: 10px;
+    padding: 10px;
+}
+.last{
+    text-align: center;
+    color: #00b39b;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+.country1{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    border: #00b39b;
+    border-style: double;
+    border-radius: 10px;
+    margin: 100px;
+}
+.country2{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    border-color: #00b39b;
+    border-style: double;
+    border-radius: 10px;
+    margin: 100px;
+}
+.country1 desc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.country2 desc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;  
+}
+.country1 h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00b39b;
+}
+.country2 h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00b39b;
+}
+.country2 .desc .desc1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.country1 .desc .desc1{
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+}
+.main-footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: #ababab;
+    text-align: center;
+    text-decoration: none;
+}
+.country1 .desc img{
+    border-radius: 10px;
+}
+.country2 .desc img{
+    border-radius: 10px;
+}
+.country1 .desc .btn{
+    border-radius: 5px;
+    height: 30px;
+}
+.country2 .desc .btn{
+    border-radius: 5px;
+    height: 30px;
+}
+
